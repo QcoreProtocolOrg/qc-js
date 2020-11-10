@@ -1,18 +1,18 @@
 # qc-js
-qc-js is a JavaScript library for Qtum Light Wallet.
+qc-js is a JavaScript library for QC Wallet.
 
 ## Installation
 
-[![NPM Stats](https://nodei.co/npm/qtum-light-js.png?downloads=true)](https://npmjs.org/package/qtum-light-js)
+[![NPM Stats](https://nodei.co/npm/qc-js.png?downloads=true)](https://npmjs.org/package/qc-js)
 
 ### NPM
 ```bash
-npm npm i --save qtum-light-js
+npm npm i --save qc-js
 ```
 
 ### Yarn
 ```bash
-yarn add qtum-light-js
+yarn add qc-js
 ```
 
 ## Usage
