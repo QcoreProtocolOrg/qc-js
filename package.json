@@ -1,0 +1,12 @@
+{
+  "name": "qc-js",
+  "version": "0.6.2",
+  "description": "JavaScript library for QC Wallet",
+  "main": "index.js",
+  "author": "Qcore protocol<qcoreprotocol@gmail.com>",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "ethereumjs-abi": "^0.6.5"
+  }
+}
