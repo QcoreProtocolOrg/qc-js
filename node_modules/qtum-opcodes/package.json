@@ -1,0 +1,23 @@
+{
+  "name": "qtum-opcodes",
+  "version": "1.0.0",
+  "description": "The QTUM opcodes map",
+  "main": "./index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qtumproject/qtum-opcodes-js.git"
+  },
+  "keywords": [
+    "qtum",
+    "opcodes"
+  ],
+  "author": "Qtum Weiyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qtumproject/qtum-opcodes-js/issues"
+  },
+  "homepage": "https://github.com/qtumproject/qtum-opcodes-js#readme"
+}

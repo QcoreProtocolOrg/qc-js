@@ -7,6 +7,8 @@
   "license": "LGPL-3.0",
   "dependencies": {
     "axios": "^0.18.0",
-    "ethereumjs-abi": "^0.6.5"
+    "ethereumjs-abi": "^0.6.5",
+    "lockr": "^0.8.5",
+    "qtumjs-wallet": "^0.2.2"
   }
 }
